@@ -8,5 +8,5 @@ The example code here is modern C++23 open source code under GPL3, the Windows b
 ## Final Product
 This concept of protecting scripts before execution, meaning before they could cause harm if tampered, will be included into ther WorkHorz project eventually. This will include additional features to harden your scripts and the ScriptSentinel on the server or the desktop.
 
-## Get The Feature For Your Own Code
-If your business has high needs for securing code and data then ScriptSentinel could be the solution for you. Contact us to get this tool bespoken to your needs.
+## Get Security For Your Own Code
+If your business has high needs for securing code and data, then ScriptSentinel could be the solution for you. Contact us to get this tool bespoken to your needs.
